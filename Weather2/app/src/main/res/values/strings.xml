@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_add_place">Add place</string>
+    <string name="btn_map_ok">Ok</string>
+    <string name="btn_map_cancel">Clear</string>
+    <string name="btn_get_weather">Get weather</string>
+    <string name="btn_check_weather">Check weather</string>
+</resources>
